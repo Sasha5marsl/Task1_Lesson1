@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\01_CSHARP\\TASK1_LESSON1\\Task2\\Task2.csproj": {}
+    "C:\\Users\\User\\Desktop\\01_CSHARP\\Task1_Lesson1\\task2\\task2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\01_CSHARP\\TASK1_LESSON1\\Task2\\Task2.csproj": {
+    "C:\\Users\\User\\Desktop\\01_CSHARP\\Task1_Lesson1\\task2\\task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\01_CSHARP\\TASK1_LESSON1\\Task2\\Task2.csproj",
-        "projectName": "Task2",
-        "projectPath": "C:\\Users\\User\\Desktop\\01_CSHARP\\TASK1_LESSON1\\Task2\\Task2.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\01_CSHARP\\Task1_Lesson1\\task2\\task2.csproj",
+        "projectName": "task2",
+        "projectPath": "C:\\Users\\User\\Desktop\\01_CSHARP\\Task1_Lesson1\\task2\\task2.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\01_CSHARP\\TASK1_LESSON1\\Task2\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\01_CSHARP\\Task1_Lesson1\\task2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
